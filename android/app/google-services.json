@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "877555554177",
+    "project_id": "internship-1f7a9",
+    "storage_bucket": "internship-1f7a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877555554177:android:fe20aad71645bc70c7fa80",
+        "android_client_info": {
+          "package_name": "com.example.ticket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877555554177-71k4laq02fij8d4cpi7q85661jdn902f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlz5L8ifinbSJ-68FpwLyogkEqxjcT4lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877555554177-71k4laq02fij8d4cpi7q85661jdn902f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
